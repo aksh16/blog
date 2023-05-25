@@ -1,0 +1,4 @@
+baseURL = 'https://aksh16.github.io/'
+languageCode = 'en-us'
+title = 'Not so random thoughts'
+theme = 'PaperMod'
